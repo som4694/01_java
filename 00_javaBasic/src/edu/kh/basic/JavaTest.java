@@ -64,6 +64,8 @@ public class JavaTest {
 		//    문자열 + 문자열 -> 이어쓰기 출력
 		System.out.println("A" + "B");
 		
-		 
+		// git 테스트 집에서 코드변경해보기  
+		// 집에서 한 코드와 학원에서 한 코드 서로 내려받기 git pull 
+		// add-> commit-> push 까지 입력 후 최종 저장 (작업 저장할때)
 	}
 }
